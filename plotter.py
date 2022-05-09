@@ -61,5 +61,4 @@ plt.xticks(rotation=90)
 plt.legend(bbox_to_anchor=(1.0, 1.0))
 plt.legend(ncol=2, handleheight=0.005, labelspacing=0.002, bbox_to_anchor=(1.0, 1.0), prop={'size': 7})
 
-
 plt.show()
