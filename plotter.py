@@ -58,7 +58,7 @@ plt.title("Current vs Time")
 plt.xticks(rotation=90)
 # plt.ticklabel_format(axis='y', style='sci', scilimits=(-4, 0), useMathText=True)
 
-plt.legend(bbox_to_anchor=(1.0, 1.0))
+plt.legend(bbox_to_anchor=(1.0, 1.3))
 plt.legend(ncol=2, handleheight=0.005, labelspacing=0.002, bbox_to_anchor=(1.0, 1.0), prop={'size': 7})
 
 plt.show()
